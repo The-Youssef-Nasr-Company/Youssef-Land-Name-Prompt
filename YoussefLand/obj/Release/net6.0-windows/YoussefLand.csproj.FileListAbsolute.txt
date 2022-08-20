@@ -1,0 +1,17 @@
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\bin\Release\net6.0-windows\YoussefLand.exe
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\bin\Release\net6.0-windows\YoussefLand.deps.json
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\bin\Release\net6.0-windows\YoussefLand.runtimeconfig.json
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\bin\Release\net6.0-windows\YoussefLand.dll
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\bin\Release\net6.0-windows\YoussefLand.pdb
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.csproj.AssemblyReference.cache
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.Form1.resources
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.csproj.GenerateResource.cache
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.AssemblyInfoInputs.cache
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.AssemblyInfo.cs
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.csproj.CoreCompileInputs.cache
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.dll
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\refint\YoussefLand.dll
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.pdb
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\YoussefLand.genruntimeconfig.cache
+C:\Users\Sally\source\repos\YoussefLand\YoussefLand\obj\Release\net6.0-windows\ref\YoussefLand.dll
